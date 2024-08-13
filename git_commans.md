@@ -4,7 +4,7 @@ git status: Este comando se usa para obtener el estado actual del repositorio
 
 git clone: Descarga una copia de un proyecto y su historial de versiones. 
 
-git pull:  Descarga el historial del marcador y integra los  cambios.git 
+git pull:  Descarga el historial del marcador y integra los  cambios.
 
 git checkout: Cambia entre ramas o restaura archivos del historial de versiones.
 
