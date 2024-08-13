@@ -18,4 +18,4 @@ git commit: Registra los cambios en el historial de versiones.
 
 git push: Sube todos los commits de la rama local a GitHub.
 
-git merge: Combina la rama del marcada con la rama local actual.
+git merge: Combina la rama marcada con la rama local actual.
